@@ -1,0 +1,26 @@
+.login-form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 230px;
+    width: 343px;
+}
+
+.login-form-container input {
+    width: 340px;
+    height: 48px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    color: #979797;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Helvetica;
+    border: solid 1px #ebebeb;
+    
+}
+
+::placeholder {
+    color: #979797;
+    padding-left: 23px;
+}

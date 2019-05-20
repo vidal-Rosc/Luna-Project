@@ -1,0 +1,57 @@
+.restaurant-page-single-review-user-rating-pinguin-list {
+  display: flex;
+  width: 200px;
+  align-items: center;
+}
+
+.restaurant-page-single-review-user-rating-pinguin-list img {
+  height: 30px;
+  margin-right: 5px;
+}
+
+.restaurant-page-single-review-interaction-like-button {
+    width: 125px;
+    height: 33px;
+    background: rgba(145, 145, 145, 0.6);
+    border-top-left-radius: 28px;
+    border-bottom-left-radius: 28px;
+    border-right: #ffffff solid 1px;
+    border: 0px;
+    margin-left: 9px;
+  }
+  
+  .restaurant-page-single-review-interaction-like-font {
+    font-family: Helvetica;
+    color: #ffffff;
+    font-family: Helvetica;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  .restaurant-page-single-review-interaction-like-font:hover {
+    font-weight: bold;
+  }
+  
+  .restaurant-page-single-review-interaction-comment-button {
+    width: 125px;
+    height: 33px;
+    background: rgba(145, 145, 145, 0.6);
+    border-top-right-radius: 28px;
+    border-bottom-right-radius: 28px;
+    border-left: #ffffff solid 1px;
+    border: 0px;
+    margin-left: 1px;
+  }
+  
+  .restaurant-page-single-review-interaction-comment-font {
+    font-family: Helvetica;
+    color: #ffffff;
+    font-family: Helvetica;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  .restaurant-page-single-review-interaction-comment-font:hover {
+    font-weight: bold;
+  }
+  

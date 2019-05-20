@@ -1,0 +1,8 @@
+.login-page-body {
+    margin-top:70px;
+    height: 408px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,20 @@
+.signup-button {
+  width: 100px;
+  height: 41px;
+  background: #e47d31;
+  border-top-left-radius: 28px;
+  border-bottom-left-radius: 28px;
+  border: 0px;
+}
+
+.font-signup-button {
+  font-family: Helvetica;
+  color: #ffffff;
+  font-family: Helvetica;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.font-signup-button:hover {
+    font-weight: bold;
+}

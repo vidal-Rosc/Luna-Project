@@ -1,0 +1,34 @@
+.review-card-main-container {
+    box-sizing: border-box;
+    border: solid 1px #ebebeb;
+    width: 271px;
+    height: 410px;
+    border-radius: 3px;
+    border-top: solid 8px #e47d31;
+    box-shadow: -0.35em 0 1em rgba(250, 146, 9, 0.527);
+}
+.card-main-header{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap ;
+    margin-bottom: 50px;
+
+}
+.card-main-header img{
+    height: 100px;
+    margin-right: 10px;
+
+}
+
+
+.writer-review-name{
+    color: #e47d31;
+    font-weight: normal;
+
+}
+.text-review-content{
+     color: black;
+     font-weight: normal;
+     padding-left: 20px;
+
+}

@@ -1,0 +1,8 @@
+.signup-page-main-container {
+  margin-top: 73px;
+  height: 378px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}

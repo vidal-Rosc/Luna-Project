@@ -1,0 +1,13 @@
+.write-a-review-button {
+  width: 200px;
+  height: 39px;
+  font-family: Helvetica;
+  font-size: 16px;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 28px;
+  background-color: #e47d31;
+  border: 0px;
+  /* this is provitional */
+  margin-top: 5px;
+}

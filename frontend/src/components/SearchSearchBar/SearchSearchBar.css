@@ -1,0 +1,35 @@
+.search-search-bar-form {
+  margin-top: 72px;
+  border-bottom: solid 1px #ebebeb;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.search-search-bar-form input {
+  width: 100%;
+  border: 0;
+  border-right: solid 2px #ebebeb;
+}
+
+::placeholder {
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  color: #d8d8d8;
+}
+
+.search-search-bar-form select {
+  width: 350px;
+  height: 100%;
+  font-family: Helvetica;
+  font-size: 20px;
+  color: #d8d8d8;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 0;
+  padding: 0 20px 0 20px;
+  
+}

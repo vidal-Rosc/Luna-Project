@@ -1,0 +1,28 @@
+.home-page-top-container {
+  height: 351px;
+  background-color: white;
+  width: 100%;
+  margin-top: 72px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../../Assets/homePageImage.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.home-page-title-container {
+  height: 113px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-page-restaurant-list {
+  margin-top:20px;
+  width: 92%;
+  display: flex;
+  margin-left:5%;
+  margin-right: 5%;
+}

@@ -1,0 +1,6 @@
+.create-review-banner-container {
+    height: 204px;
+    width: 100%;
+    background-image: url('../../Assets/restaurant-banner.JPG');
+    background-size: cover;
+}

@@ -1,0 +1,80 @@
+.new-restaurant-row-container {
+  width: 1178px;
+  height: 118px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 28px;
+}
+.new-restaurant-row-container p {
+  font-family: Helvetica;
+  font-size: 19px;
+  font-weight: bold;
+  color: #4c4c4c;
+  letter-spacing: 1px;
+
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+.new-restaurant-fields-container {
+
+  display: flex;
+  width: 1178px;
+  justify-content: space-between;
+}
+
+.new-restaurant-field-container {
+  width: 370px;
+  height: 82px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.new-restaurant-field-container label {
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  color: #979797;
+}
+
+.new-restaurant-field-container input {
+  width: 371px;
+  height: 49px;
+  border-radius: 3px;
+  border: solid 1px #ebebeb;
+  background-color: #ffffff;
+
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+.new-restaurant-field-container select {
+  width: 371px;
+  height: 51px;
+  border-radius: 3px;
+  border: solid 1px #ebebeb;
+  background-color: #ffffff;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  padding-left: 18px;
+  
+  color: #d8d8d8;
+}
+
+.file-uploaded-preview {
+ 
+width: 50%;
+opacity: 0.85;
+margin: 10px;
+}
+
+.choose-file-input {
+  border: none;
+  border: solid black;
+}

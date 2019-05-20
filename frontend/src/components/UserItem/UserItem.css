@@ -1,0 +1,39 @@
+.user-card-main-container {
+    box-sizing: border-box;
+    border: solid 1px #ebebeb;
+    width: 400px;
+    height: 210px;
+    border-radius: 3px;
+    border-top: solid 8px #e47d31;
+    box-shadow: -0.35em 0 1em rgba(250, 146, 9, 0.527);
+    font-family: Helvetica;
+    margin-bottom: 3%;
+}
+
+.userCardTop{
+    display: flex;
+}
+
+.userPinguinAvatar{
+    display: flex;
+    height: 80px;
+}
+
+.userCardTopRight{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 10px;
+}
+
+.userCardBottomDesciption{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.username{
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff862f;
+}

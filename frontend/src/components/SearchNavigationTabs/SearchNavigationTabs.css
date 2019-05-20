@@ -1,0 +1,52 @@
+.search-tab-main-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 51px;
+  margin-top: 25px;
+}
+
+.search-tab-main-container div {
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  margin-left: 80px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  color: #4c4c4cec;
+  border-bottom: solid 0.5px #e47d31;
+}
+
+.search-tab-main-container div:hover {
+  border-bottom: solid 3px #e47d31;
+  font-size: 20.5px;
+}
+
+.search-lists-container {
+  width: 100%;
+  height: 300px;
+  margin-top: 57px;
+  display: flex;
+  justify-content: center;
+}
+
+.arrows-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.arrows {
+  height: 190px;
+  opacity: 0.85;
+}
+
+.select-paragraph {
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 45px;
+  color: orange;
+}

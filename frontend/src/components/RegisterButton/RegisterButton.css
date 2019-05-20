@@ -1,0 +1,16 @@
+.register-button {
+    width: 200px;
+    height: 55px;
+    border-radius: 28px;
+    font-family: Helvetica;
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #e47d31;
+    border: 0px;
+  }
+  
+.register-button:hover {
+  font-weight: bold;
+  background-color: #f78635;
+}

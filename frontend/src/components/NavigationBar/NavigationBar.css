@@ -1,0 +1,105 @@
+.navigationbar-main-container {
+    height: 71px;
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px #d8d8d8;
+    width: 100%;
+    margin-right: 30px;
+    position: fixed;
+    align-items: center;
+    /* verify the use of the following: */
+    overflow: hidden;
+    top: 0; 
+    background-color: white;
+
+}
+
+
+.pinguin-logo {
+    margin-top: 5px;
+    width: 60px;
+    height: 60px;
+}
+
+.pinguin-logo:hover {
+  height: 65px;
+  width: 65px;
+}
+
+.navigation-bar-logo-title {
+    font-family: "Gloria Hallelujah", cursive;
+    font-size: 28px;
+    width: 300px;
+    height: 100%;
+    margin-left: 10px;
+    margin-top: 5px;
+    
+}
+
+.navigation-left-container {
+    width: 400px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+
+}
+
+.navigation-right-container {
+    display: flex;
+    width: 80%;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+}
+
+.navigation-tab-list {
+    width:100%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    margin: 0px;
+    align-items: center;
+    
+}
+
+.navigation-tab-list li {
+    
+    height: 100%;
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    margin: 0 60px 0 40px;
+    text-decoration: none;
+    align-items: center;
+    border-bottom: white solid 6px;
+}
+
+.navigation-tab-list li:hover {
+    border-bottom: #e47d31 solid 6px;
+    font-weight: bold;
+}
+
+.navlinks {
+    text-decoration: none;
+    color: #4a4a4a;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    
+}
+
+
+
+.navigation-button-container {
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

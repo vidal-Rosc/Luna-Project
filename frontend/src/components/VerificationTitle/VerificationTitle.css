@@ -1,0 +1,23 @@
+.verification-main-title-container {
+    width: 180px;
+    height: 44px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.verification-line {
+    border-bottom: solid 3px #e47d31;
+    height: 3px;
+    width: 100px;
+}
+
+.verification-title {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: #4c4c4c;
+    font-size: 24px;
+    padding: 0px;
+    margin: 0px;
+}

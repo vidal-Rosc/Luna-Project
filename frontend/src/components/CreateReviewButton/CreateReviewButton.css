@@ -1,0 +1,15 @@
+.create-review-button {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: #ffffff;
+  width: 200px;
+  height: 56px;
+  border-radius: 28px;
+  background-color: #e47d31;
+  border: 0px;
+}
+
+.create-review-button:hover {
+font-weight: bold;
+background-color: #e68d4d;
+}

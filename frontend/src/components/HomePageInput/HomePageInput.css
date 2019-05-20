@@ -1,0 +1,25 @@
+.home-page-container {
+    /* this is provisional */
+    margin-top: 5px;
+    margin:0;
+    padding: 0;
+}
+
+.home-page-input {
+    width: 530px;
+  height: 55px;
+  border-radius: 3px;
+  background-color: #ffffff;
+  color: #4c4c4c;
+  font-family: Helvetica;
+  font-size: 20px;
+  margin-left: 17.5px;
+  line-height: 1;
+  border: solid 1px #ebebeb;
+  
+}
+
+::placeholder {
+    color: #979797;
+    padding-left: 17.5px;
+}

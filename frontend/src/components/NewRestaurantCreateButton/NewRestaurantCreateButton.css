@@ -1,0 +1,12 @@
+.create-button-orange {
+  width: 200px;
+  height: 56px;
+  border-radius: 28px;
+  background-color: #e47d31;
+  border: 0px;
+
+  font-family: Helvetica;
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+}
